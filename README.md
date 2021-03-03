@@ -1,1 +1,1 @@
-# docker_cli_dictionary
+Reading from a JSON file to build a dictionary

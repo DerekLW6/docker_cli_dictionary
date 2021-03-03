@@ -1,0 +1,24 @@
+Hello
+
+Containerized App I built for using AWS Cloud9
+
+Cloud Project 2 Script/Commands
+
+Cloud 9 - Environments
+- Dictionary/Test/Dockerhub Tabs
+- Open dictionary_project and demo the app 
+words : cloud, kloud, and xxyssc
+
+- Show that it has been pushed to dockerhub (snag the pull command)
+- Open the Test Cloud9 Environment
+
+Run the following
+docker pull realdw6/command_line_dictionary:latest
+docker image ls
+docker run -it realdw6/command_line_dictionary bash (control d to quit)
+docker run -it realdw6/command_line_dictionary python app.py
+
+
+
+
+
